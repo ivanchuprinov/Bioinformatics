@@ -1,0 +1,41 @@
+Q1 : What changes to the cost of the operations (insertion, deletion, replacement, etc.) would result inan edit distance for the lower alignment for SOURCE2/ Target2that is smaller than the edit distance for the upper alignment in SOURCE2/ Target2?
+
+We can write it out as an inequality:
+
+6i > 7i + d
+
+When we solve for d, we get:
+
+d < -i
+
+If i costs 1,
+
+d has to cost less than -1.
+
+Q2 : What is the BLAST search ID for the alignment/job you submitted?
+
+"An RID is like a ticket number that allows you to retrieve your search results and format them in many different ways over the next 24 hours."
+
+Q3 : How long did the BLAST search take?
+
+A 3-8 of seconds.
+
+Q4: What is the organism and gene that is the best match for the query sequence?
+
+Western chimpanzee
+
+Q5: The 67-sequence query aligns best with what range of bases in the found (Subject) sequence?
+
+TCTGTCCACTCCTGATGCTGTTATGGGCAACCSTAAGGTGAAGGCTCATGGCAAGAAAGTGCTCGGT
+
+Q6 : The alignment contains how many exact nucleotide matches?
+
+63/67 bases match
+
+Q7 : The alignment contains how many nucleotide mismatches?
+
+4/67 bases mismatch
+
+Q8 : The alignment contains how many gaps in the Querysequence (be careful here ... notice the starting base number of the query sequence)?
+
+2
