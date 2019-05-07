@@ -1,0 +1,7 @@
+Q1: Based on your analysis, which of the PDB structures has the shortest flap/active site separation distance?
+
+4hla
+
+Q2: Based on your analysis, which of the PDB structures has the largest flap/active site separation distance?
+
+5bry
