@@ -1,0 +1,19 @@
+Q1 : When was structure 2g69 deposited into the PDB, and what is the author and title of the manuscript that is associated with the PDB structure?
+
+Deposited: 2006-02-24
+Authors: Liu, F., Kovalevsky, A.Y., Louis, J.M., Boross, P.I., Wang, Y.F., Harrison, R.W., Weber, I.T.
+Manuscript: Mechanism of Drug Resistance Revealed by the Crystal Structure of the Unliganded HIV-1 Protease with F53L Mutation.
+
+Q2 : What mutation (the residue, the wild type, and the mutant residue) does 2g69 exhibit?
+
+Residue 53 mutated
+Wild type residue: Phenylalanine
+Mutant residue: Leucine
+
+Q3 : What are the units of measurements in PyMOL?
+
+Angstroms
+
+Q4: Based on your measurement, what is the effect of the new medicine? Specify what the effect is on the structure, and what effect that has therapeutically on HIV-1 protease.
+
+The medicine brings the flaps of the protein together. This should impede the ability of the protease to do the "cutting". This inhibits HIV-1 protease.
